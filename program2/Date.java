@@ -20,6 +20,8 @@ public class Date{
     public static void main(String[] args) {
         student stud = new student("Alice", 101, "Computer Science");
         stud.display();
+        System.out.println("This is after merged line");
+        System.out.println("This is in master branch");
     }
 }
 
